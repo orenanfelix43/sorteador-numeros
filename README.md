@@ -32,7 +32,7 @@ O sistema gera números **aleatórios e sem repetição**, exibindo-os na tela.
 ## 🖥️ Como executar
 
 1. Baixe ou clone este repositório:
-   git clone https://github.com/usuario/sorteador-numeros.git
+   git clone https://github.com/orenanfelix43/sorteador-numeros.git
 2. Abra o arquivo index.html em qualquer navegador moderno.
 3. Preencha os campos:
    -Quantidade de números
